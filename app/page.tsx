@@ -25,6 +25,8 @@ export default async function Home() {
             </a>{" "}
             center.
           </p>
+
+          <h2 className="text-xl font-bold">Here i have tried to Fetch the API of the SkillShikshya BLOG section </h2>
         </div>
     </div>
   );
